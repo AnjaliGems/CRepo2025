@@ -1,0 +1,14 @@
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\bin\Debug\net8.0\Tutotial_CSharp.exe
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\bin\Debug\net8.0\Tutotial_CSharp.deps.json
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\bin\Debug\net8.0\Tutotial_CSharp.runtimeconfig.json
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\bin\Debug\net8.0\Tutotial_CSharp.dll
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\bin\Debug\net8.0\Tutotial_CSharp.pdb
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.AssemblyInfoInputs.cache
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.AssemblyInfo.cs
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.dll
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\refint\Tutotial_CSharp.dll
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.pdb
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\Tutotial_CSharp.genruntimeconfig.cache
+C:\Users\Anjali Sinha\source\repos\Tutotial_CSharp\Tutotial_CSharp\obj\Debug\net8.0\ref\Tutotial_CSharp.dll
